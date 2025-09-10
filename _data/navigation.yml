@@ -20,8 +20,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /blog/
+  - title: "Tech Blog"
+    url: "https://dongho0424.github.io/attic"
     
   - title: "CV"
     url: /cv/
@@ -31,3 +31,6 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+
+  # - title: "dev"
+  #   url: /404/
